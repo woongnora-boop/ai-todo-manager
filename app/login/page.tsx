@@ -52,7 +52,7 @@ export default function LoginPage() {
         <div>
           <h1 className="text-2xl font-bold tracking-tight">TaskAI</h1>
           <p className="mt-1 text-sm text-muted-foreground max-w-xs">
-            자연어로 할 일을 입력하면 AI가 자동으로 정리해 드립니다.
+            AI가 도와주는 스마트한 할 일 관리
           </p>
         </div>
       </div>
